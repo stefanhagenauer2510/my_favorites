@@ -1,3 +1,3 @@
 # my_favorites
 
-Basketball, Essen, HTL Pinkafeld, GIT, Hochschule Burgenland
+Volleyball, Essen, HTL Pinkafeld, GIT, Hochschule Burgenland
